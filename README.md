@@ -4,7 +4,7 @@
 
 0. Open terminal
 
-1. Download the [zip here](https://github.com/priyankpat/hosts-automta/blob/master/unix/unix.zip). You can run `wget https://github.com/priyankpat/hosts-automta/blob/master/unix/unix.zip`
+1. Download the [zip here](https://github.com/priyankpat/hosts-automta/raw/master/unix/unix.zip). You can run `wget https://github.com/priyankpat/hosts-automta/raw/master/unix/unix.zip`
 
 2. Unzip the archive
 
@@ -15,7 +15,7 @@
 
 ### For Windows
 
-1. Download the [zip here](https://github.com/priyankpat/hosts-automta/blob/master/windows/windows.zip)
+1. Download the [zip here](https://github.com/priyankpat/hosts-automta/raw/master/windows/windows.zip)
 
 2. Unzip the archive
 
