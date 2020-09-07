@@ -1,1 +1,2 @@
-# hosts-automta
+# How to use the scripts
+
