@@ -26,3 +26,5 @@ echo Flush the DNS cache
 ipconfig /flushdns
 
 echo ALL DONE !!! Enjoy :) !!
+
+TIMEOUT 10

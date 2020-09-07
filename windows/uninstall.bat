@@ -17,3 +17,5 @@ if %ERRORLEVEL% NEQ 0 (
 ipconfig /flushdns
 
 echo ALL DONE !!! Restored successfully !!
+
+TIMEOUT 10

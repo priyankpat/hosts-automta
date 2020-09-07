@@ -33,4 +33,4 @@ ipconfig /flushdns
 
 echo ALL DONE !!! Enjoy :) !!
 
-PAUSE
+TIMEOUT 10
