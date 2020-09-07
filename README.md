@@ -15,6 +15,8 @@
 
 ### For Windows
 
+Note: run the .bat files with administrator privilege (Right click on the file > Run as Administrator)
+
 1. Download the [zip here](https://github.com/priyankpat/hosts-automta/raw/master/windows/windows.zip)
 
 2. Unzip the archive
