@@ -10,7 +10,7 @@
 
 3. Run the script for following use case:
 - To install the host file for the first time, run `install.sh`
-- To update the host file, run `updater.sh`. NOTE: only run this if you already ran `install.bat`
+- To update the host file, run `updater.sh`. NOTE: only run this if you already ran `install.sh`
 - To uninstall the host file, run `uninstaller.sh`
 
 ### For Windows
